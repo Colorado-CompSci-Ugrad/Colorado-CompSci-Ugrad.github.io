@@ -28,14 +28,11 @@ and computing devices, including:
   **Name**                                                   |**Service Type**
   -----------------------------------------------------------|------------------
   LMS (moodle.cs.colorado.edu)                               |Web-based
-  LDAP                                                       |Infrastructure
+  Applied LMS (applied.cs.colorado.edu)                      |Web-based
   Inginious (inginious.csel.io)                              |Web-based
-  Runestone eBooks (runestone-ucbcs.csel.io)                 |Web-based
-  Gitlab (gitlab.cs.colorado.edu)                            |Web-based
-  Foundation (foundation.cs.colorado.edu)                    |Web-based
+  Runestone eBooks (runestone.cs.colorado.edu)               |Web-based
   CS archive repository (csel-archive.cs.colorado.edu)       |Web-based
   CSEL lab desktop computers and printer (PXE boot and nfs)  |Infrastructure
-  CS RT Ticketing                                            |Infrastructure
   VMWare Licensing and VM Image and support                  |Web-based
   OpenStack Cloud                                            |Infrastructure
   Linux shared (ELRA) virtual machines                       |Infrastructure
@@ -95,14 +92,12 @@ email ticketing system. CS Help help@cs.colorado.edu
   **Service**                                                |**Service Response Time**
   -----------------------------------------------------------|---------------------------
   LMS (moodle.cs.colorado.edu)                               |2 hours
+  Applied LMS (moodle.cs.colorado.edu)                       |2 hours
   LDAP                                                       |2 hours
   Inginious (inginious.csel.io)                              |2 hours
-  Runestone eBooks (runestone-ucbcs.csel.io)                 |1 business day
-  Gitlab (gitlab.cs.colorado.edu)                            |1 business day
-  Foundation (foundation.cs.colorado.edu)                    |1 business day
+  Runestone eBooks (runestone.cs.colorado.edu)               |1 business day
   CS archive repository (csel-archive.cs.colorado.edu)       |1 business day
   CSEL lab desktop computers and printer (PXE boot and nfs)  |2 business days
-  CS RT Ticketing                                            |4 hours
-  VMWare Licensing and VM Image and support                  |2 business days
+  VMWare Licensing and VM Image and support                  |1 business day
   OpenStack Cloud                                            |1 business day
   Linux shared (ELRA) virtual machines                       |4 hours
